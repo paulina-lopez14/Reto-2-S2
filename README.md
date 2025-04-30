@@ -35,7 +35,7 @@ Puedes usar un do-while
   *Nota: para ocupar el scanner en el archivo CajeroAutomatico.java, se pone lo siguiente al inicio del archivo "import java.util.Scanner;"*
 
 ##  💻 Preview
-Simulador farmacia
+Cajero automático
 
 ![image](https://github.com/user-attachments/assets/1fa0766a-70cd-4787-aeb4-032ca7d9df78)
 
