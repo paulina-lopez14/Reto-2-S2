@@ -36,6 +36,7 @@ Puedes usar un do-while
 
 ##  💻 Preview
 Simulador farmacia
+
 ![image](https://github.com/user-attachments/assets/1fa0766a-70cd-4787-aeb4-032ca7d9df78)
 
 ![image](https://github.com/user-attachments/assets/13e6ae95-75cc-4525-9d52-598d7e148c7b)
@@ -43,6 +44,7 @@ Simulador farmacia
 ![image](https://github.com/user-attachments/assets/3bf8539b-0c91-412b-99ab-c523035ac3f1)
 
 Resultado
+
 ![image](https://github.com/user-attachments/assets/3161ec61-3296-4ada-a187-a1d62fcf9313)
 
 ## 🛠️ Tecnologías usadas
